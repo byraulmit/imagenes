@@ -226,7 +226,7 @@ header.masthead p {
  }
 }
 .text-primary {
- color:#f05f40!important
+  color: red !important
 }
 .btn {
  font-weight:700;
